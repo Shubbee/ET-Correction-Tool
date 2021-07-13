@@ -3,6 +3,7 @@ A python tool to automate the creation of the MIKE SHE evapotranspiration Dfs2 f
 ![image](https://user-images.githubusercontent.com/42157509/125534670-98e5a83c-8cdb-4975-b895-25db333fc1bf.png)
 
 Technical approach: 
+
 Step 1: Read all the ET Dfs0s and create an ET time-series data frame. 
 
 Step 2: Read the polygons shape file which define the zones with unique ET time-series. 
